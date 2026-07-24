@@ -1,0 +1,19 @@
+question,answer
+What is CodeAlpha?,CodeAlpha is an organization that offers internship programs in fields like web development, data science, machine learning, and artificial intelligence to help students gain practical experience.
+How do I apply for an internship?,You can apply for an internship by visiting the official CodeAlpha website and filling out the internship application form with your details and resume.
+What is the duration of the internship?,The internship duration is typically 1 month, but it may vary depending on the specific program and track you choose.
+Is the internship paid or unpaid?,Most CodeAlpha internships are unpaid, but they provide a certificate of completion and a letter of recommendation for outstanding performers.
+Will I get a certificate after completing the internship?,"Yes, upon successful completion of all required tasks, you will receive an internship completion certificate."
+How many tasks do I need to complete?,You are generally required to complete a minimum of 3 out of the given tasks to be eligible for the certificate.
+Can I do the internship remotely?,"Yes, the internship is fully remote and can be completed from anywhere with an internet connection."
+What programming languages are used in the internship?,"Depending on your track, you may use Python, Java, JavaScript, HTML/CSS, or other relevant languages and frameworks."
+How do I submit my completed tasks?,You need to upload your project code to GitHub and share the repository link along with a demo video as instructed in the task guidelines.
+What if I need help with a task?,You can reach out through the official CodeAlpha support email or check the resources and documentation provided for each task.
+Is there a deadline for submitting tasks?,"Yes, each internship batch has a specific deadline, usually mentioned in your offer letter or the task allocation document."
+Can I use this project in my resume?,"Absolutely, completed CodeAlpha projects are great additions to your resume and portfolio to showcase practical skills."
+What is a chatbot?,A chatbot is a software application that simulates human conversation by understanding user input and providing relevant automated responses.
+How does this FAQ chatbot work?,This chatbot preprocesses your question using NLP techniques, then compares it to a database of known questions using cosine similarity to find and return the closest matching answer.
+Which NLP library does this chatbot use?,This chatbot uses NLTK for text preprocessing (tokenization, stopword removal, lemmatization) and scikit-learn for TF-IDF vectorization and cosine similarity matching.
+What if the chatbot does not understand my question?,If no FAQ matches closely enough with your question, the chatbot will let you know it could not find a good match and suggest rephrasing your question.
+Can I add more questions to the chatbot?,"Yes, you can add more rows to the faqs.csv file with new questions and answers, and the chatbot will automatically include them."
+Do I need internet access to run this chatbot?,No internet is needed to run the chatbot after the required NLTK data has been downloaded once during setup.
