@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bde9583-0f9f-4875-90f1-0d85d0c04f60" />
+
 # FAQ Chatbot — CodeAlpha Task 2
 
 A chatbot that answers user questions by matching them against a bank of FAQs
