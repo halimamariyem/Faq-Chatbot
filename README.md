@@ -51,7 +51,7 @@ Bot: You can apply for an internship by visiting the official CodeAlpha
      (matched: "How do I apply for an internship?" | confidence: 1.00)
 ```
 
-### Option B — Web chat UI (optional bonus)
+### Option B — Web chat UI 
 
 ```bash
 python app.py
